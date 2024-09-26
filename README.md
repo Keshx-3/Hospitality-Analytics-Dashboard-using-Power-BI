@@ -39,9 +39,7 @@ The objective of this project is to deliver an end-to-end data analytics solutio
 - Delivered a walkthrough of the final dashboards to stakeholders, summarizing the findings and recommended business actions.
 
 ## Dashboard Screenshot
-
-![Hospitality Analytics Dashboard](path-to-your-image.png)  
-*(Replace 'path-to-your-image.png' with the actual path to the dashboard image)*
+![image](https://github.com/user-attachments/assets/889f08f8-de12-4474-9bae-d0a002932447)
 
 ## Credits
 
